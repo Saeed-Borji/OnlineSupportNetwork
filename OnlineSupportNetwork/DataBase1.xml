@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<User>
+  <a>
+    <username>a</username>
+    <accounttype>Both</accounttype>
+    <password>a</password>
+    <repetpassword>a</repetpassword>
+    <accountnumber>636633636</accountnumber>
+    <bankname>refah</bankname>
+    <accountname>reza</accountname>
+    <check>1</check>
+  </a>
+
+  <fanni>
+    <username>fanni</username>
+    <accounttype>technicalsupport</accounttype>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>123456789</accountnumber>
+    <bankname>melli</bankname>
+    <accountname>reza</accountname>
+    <check>1</check>
+  </fanni>
+
+
+  <fild>
+    <username>fild</username>
+    <accounttype>fieldexpert</accounttype>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>1</check>
+  </fild>
+
+  <testfild>
+    <username>testfild</username>
+    <accounttype>fieldexpert</accounttype>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>-1</check>
+  </testfild>
+
+  <testfanni>
+    <username>testfanni</username>
+    <accounttype>technicalsupport</accounttype>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>69698877</accountnumber>
+    <bankname>melli</bankname>
+    <accountname>hasan</accountname>
+    <check>-1</check>
+  </testfanni>
+
+  <julien>
+    <username>julien</username>
+    <accounttype>fieldexpert</accounttype>
+    <password>juju</password>
+    <repetpassword >juju</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>1</check>
+  </julien>
+
+  <mh>
+    <username>mh</username>
+    <accounttype>fieldexpert</accounttype>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>1</check>
+  </mh>
+
+  <eli>
+    <username>eli</username>
+    <accounttype>fieldexpert</accounttype>
+    <password>a</password>
+    <repetpassword >a</repetpassword>
+    <accountnumber>---</accountnumber>
+    <bankname>---</bankname>
+    <accountname>---</accountname>
+    <check>1</check>
+  </eli>
+</User>
